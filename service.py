@@ -4,9 +4,9 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, User, Mes
 
 Client = Client(
     "Service message remover",
-    bot_token = os.environ["5313905202:AAGMNPbofxcj0RjcjdSP1zrgu8gUd5mAqWE"],
-    api_id = int(os.environ["15781409"]),
-    api_hash = os.environ["0499f7f54f3fbb56b43acb6edf2d9696"]
+    bot_token =["5313905202:AAGMNPbofxcj0RjcjdSP1zrgu8gUd5mAqWE"],
+    api_id =["15781409"]),
+    api_hash =["0499f7f54f3fbb56b43acb6edf2d9696"]
 )
 
 START_BUTTON = InlineKeyboardMarkup(
