@@ -10,6 +10,6 @@
 
 ### Deploy To Heroku
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SpamShield/service-regexlink-cleaner)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Tuncay456/spamlinksilmeopmeoksama)
 
-# Seen On Telegram as [@AntiServiceTGbot](https://t.me/AntiServiceTGbot) 
+# Seen On Telegram as [@Spamengelleci_bot](https://t.me/Spamengelleci_bot) 
