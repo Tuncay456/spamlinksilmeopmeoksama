@@ -5,13 +5,13 @@
     "keywords": ["telegram", "service", "regex","link", "cleaner"],
     "env": {
         "BOT_TOKEN": {
-            "description": "Your Telegram Bot Token From @Botfather"
+            "description": "5313905202:AAGMNPbofxcj0RjcjdSP1zrgu8gUd5mAqWE"
         },
         "API_ID": {
-            "description": "Your API_ID from https://my.telegram.org/"
+            "description": "15781409"
         },
         "API_HASH": {
-            "description": "Your API_HASH from https://my.telegram.org/"
+            "description": "0499f7f54f3fbb56b43acb6edf2d9696"
         }
     },
     "buildpacks": [{"url": "heroku/python"}]
